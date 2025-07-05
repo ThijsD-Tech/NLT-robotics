@@ -2,7 +2,7 @@
 
 Nederlandse versie onderaan / Dutch version below
 
-ENG
+ENG<br>
 This repository contains the necessary information and code to create a robotics platform using Arduino (or any other microcontroller using C++) in combination with Lego Mindstorms sensors and motors.
 There will be a directory in English, and one in Dutch. Each containing a list of hardware, hardware schematics, example code, .stl files for casings, and instructions.
 
