@@ -8,6 +8,6 @@ There will be a directory in English, and one in Dutch. Each containing a list o
 
 
 
-NL
+NL<br>
 Deze opslaglocatie bevat de informatie die nodig is om een robotica platform te maken met gebruik van Arduino (of een andere microcontroller met C++) in combinatie met Lego Mindstorms sensoren en motoren.
 Er is een map in het Engels, en een in het Nederlands. Elk bevat een lijst met onderdelen, schemas, voorbeeldcode, .stl bestanden voor behuizing, en instructies.
