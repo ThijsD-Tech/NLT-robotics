@@ -1,4 +1,4 @@
-#Hardware
+# Hardware
 
 To start off, you will need the following hardware:
 
