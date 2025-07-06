@@ -11,7 +11,7 @@ This documentation is the result of a graduation project at the University of Tw
 
 
 NL<br>
-Deze opslaglocatie bevat de informatie die nodig is om een robotica platform te maken met gebruik van Arduino (of een andere microcontroller met C++) in combinatie met Lego Mindstorms sensoren en motoren.
+Deze repository bevat de informatie die nodig is om een robotica platform te maken met gebruik van Arduino (of een andere microcontroller met C++) in combinatie met Lego Mindstorms sensoren en motoren.
 Er is een map in het Engels, en een in het Nederlands. Elk bevat een lijst met onderdelen, schemas, voorbeeldcode, .stl bestanden voor behuizing, en instructies.
 
 Deze documentatie is het resultaat an een afstudeerproject aan de Universiteit Twente, in opdracht van de Pre-U. Het doel is om Nederlandse en Belgische middelbare scholen die het vak Natuur, Leven & Technologie (NLT) aanbieden de optie te geven om een robotica platform te gebruiken dat als brug tussen de uitgeproduceerde Lego Mindstorms NXT/EV3 sets en de beter beschikbare microcontrollers fungeert.
