@@ -1,5 +1,7 @@
 # NLT-robotics
 
+![Robot prototype](images/NLTbot.jpg?raw=true "Prototype of the platform")
+
 ### Nederlandse versie onderaan / Dutch version below
 
 ## ENG
